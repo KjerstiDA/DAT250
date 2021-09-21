@@ -19,6 +19,7 @@ assertion error check family
 Table created by step 5 in the tutorial used for this assignment.
 
 ### Experiment 1.2 - Family
+Experiment 1.2 [source code.](https://github.com/KjerstiDA/DAT250-Family)
 
 ![family](img/expass2-family.png)
 
@@ -43,6 +44,7 @@ Table of the sequence.
 
 
 ### Experiment 2
+Experiment 2 [source code.](https://github.com/KjerstiDA/DAT250-CC)
 
 ![overview](img/card.png)
 
