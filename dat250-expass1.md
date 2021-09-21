@@ -27,7 +27,8 @@ The problem was that 7zip that was used to unzip did not have permission to plac
 This was solved by using Windows 10's native file extraction.
 
 ### 3.  Validating the environment
-To validate that the software development environment was up and working a version check for java, maven and git was done by the following commands in command prompt:
+To validate that the software development environment was up and working a version check for java, 
+maven and git was done by the following commands in command prompt:
 * java -version
 * mvn -version
 * git --version
@@ -48,7 +49,7 @@ However, this was easily solved by requesting a new validation link and followin
     
     
 ### Pending issues
-There was no issue encountered during the assignment that was not resolved..
+There was no issue encountered during the assignment that was not resolved.
 
 
 
