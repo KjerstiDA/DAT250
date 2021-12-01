@@ -6,25 +6,30 @@ This assignment requires the following software technology:
 - The postman tool
 - Swagger
 
-
-### 1.  Validating the installation package
-
-
 ### 1. Installation of software
-
+All technology needed to complete the assignment was already pre-installed.
 
 ## Experiments
 
-### Experiment 1 - Spark/Java Framework project and Postman
+### Experiment 1 - Spark/Java Framework project and Postman 
+[source code.](https://github.com/KjerstiDA/expass4-1)
+
+The was some problems with deploying the service as the coled project came with eclipse configurations, 
+while deployment was attempted with IntelliJ. 
+This was solved by deleting .idea and opening the repository through pom.xml.
+
+GET
+
+![get counters](img/expass4-1get.png)
+
+PUT
+
+![put counters](img/expass4-1put.png)
 
 ### Experiment 2 REST API for TODO-items
-Experiment 2 [source code.](https://github.com/KjerstiDA/DAT250)
+[source code.](https://github.com/KjerstiDA/expass4-2)
 
-### Experiment 3 Experiment 3: Swagger (optional)
-Experiment 3 [source code.](https://github.com/KjerstiDA/DAT250)
-
-### Experiment 4 XML representation (optional)
-Experiment 4 [source code.](https://github.com/KjerstiDA/DAT250)
 
 ### Pending issues
+
 No, no pending issues encountered.
